@@ -22,15 +22,15 @@ This project uses quantitative and visual analyses including (i) identifying the
 
 The top five performing production studios when considering the number of movies the studio produces are Universal, Fox, Warner Brothers, BV (Disney), and Sony. 
 
-![Top Movies Produced By Production Studio](/Images/Image1.png)
+![Top Movies Produced By Production Studio](./Images/Image1.png)
 
 When considering the top five production studios previously identified, the top three most popular genre interms of production studio investment are Action, Comedy, and Adventure.
 
-![Total Movie Genres Produced by Top Production Studios](/Images/Image2.png)
+![Total Movie Genres Produced by Top Production Studios](./Images/Image2.png)
 
 When comparing the movie budgets and movie return on investments and group the findings based on production studios and movie genre it's observed that generally Fox and Universal achieve the highest ROIs and that there is no clear linear relationship between movie budget and ROI.
 
-![Production Company ROI Relative to Budget and Top Genres](/Images/Image3.png)
+![Production Company ROI Relative to Budget and Top Genres](./Images/Image3.png)
 
 
 
